@@ -7,4 +7,6 @@ int main ()
     
 }
 
-bool health();
+
+int health();
+
