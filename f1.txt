@@ -1,3 +1,5 @@
 //function
-int func()
+int func();
+
+bool isdead?();
 
